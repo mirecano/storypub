@@ -1,0 +1,13 @@
+{
+	"dbconf":{
+		"driver":"mysql",
+		"dbname":"mcano_storypub",
+		"dbhost":"localhost",
+		"dbuser":"mcano_root",
+		"dbpass":"linuxlinux"
+	},
+	"app":{
+		"version":"1.0",
+		"title":"Xframework"
+	}
+}
